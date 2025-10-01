@@ -57,14 +57,14 @@ EI Assignment/
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Nitin-32/EI.git
     cd "EI Assignment"
     ```
 
 2. **Navigate to an assignment:**
     ```bash
-    cd Assignment_1   # For Design Patterns
-    cd Assignment_2   # For Astronaut Scheduler
+    cd Assignment_1  
+    cd Assignment_2  
     ```
 
 3. **Follow the assignment-specific README for setup and run instructions.**
